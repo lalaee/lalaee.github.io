@@ -6,7 +6,9 @@ Made using HTML5 & CSS3.
 
 - [Demo](https://lalaee.github.io/) - See live version of code here
 
-![Tribute Page](/gif/first-gif.png)
+![Tribute Page](
+      lalaee.github.io/gif/first-gif.gif
+    )
 
 
 
