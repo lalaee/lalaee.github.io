@@ -1,4 +1,4 @@
-    *, :after, :before {
+*, :after, :before {
     -webkit-box-sizing: inherit;
     box-sizing: inherit;
 }
@@ -298,8 +298,6 @@ body {
     bottom: 0;
 }
 
-
-
 img {
     height: auto;
 
@@ -316,10 +314,6 @@ img {
     left: 0;
     right: 0;;
 }
-
-
-
-
 
 .mob-ui {
     display: block;
@@ -648,129 +642,16 @@ a {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Screen size 320px */
 
 @media (min-width: 320px) {
     #Phase-4 {
         height: 2000px;
     
 }
-
-
 }
 
-
-
-
-
-
-/*  375px */
+/* Screen size 375px */
 
 @media (min-width: 375px) {
 .Intro-text {
@@ -832,13 +713,7 @@ a {
 }
 
 
-
-
-
-
-
-
-
+/* Screen size 425px */
 
 @media (min-width: 425px) {
 
@@ -850,7 +725,7 @@ a {
 }
 
 
-/*  480px */
+/* Screen size 480px */
 
 @media (min-width: 480px) {
 .logo-outter-con {
@@ -881,18 +756,8 @@ a {
 }
 
 
+/*  Screen size 640px */
 
-
-
-
-
-
-
-
-
-
-
-/*  640px */
 @media (min-width: 640px) {
 .logo-outter-con {
     z-index: 11;
@@ -903,18 +768,11 @@ a {
     
 }
 
-
 }
 
 
+/* Screen size 720px */
 
-
-
-
-
-
-
-/* 720px */
 @media (min-width: 720px) {
 .logo-outter-con {
     padding-left: 50px;
@@ -1128,22 +986,15 @@ a {
 }
 
 
+/* Screen sizes 480px and 720px */
 
-
-
-
-
-
-
-
-/* 480px and 720px */
 @media (min-width: 480px) and (min-width: 720px) {
 .text-body-2-outer-con {
     max-width: 1350px;
 }
 }
 
-/* 720px */
+/* Screen size 720px */
 @media (min-width: 720px) {
 
 
@@ -1167,27 +1018,22 @@ a {
 
 }
 
-/* 768px */
-@media (min-width: 768px) {
 
+
+/* Screen size 768px */
+
+@media (min-width: 768px) {
 
 #Phase-4 {
     height: 1270px;
     
 }
 
-
 }
 
 
+/*  Screen size 1080px */
 
-
-
-
-
-
-
-/*  1080px */
 @media (min-width: 1080px) {
 .logo-outter-con {
     padding-left: 70px;
@@ -1260,10 +1106,8 @@ a {
 
 }
 
+/* Screen sizes 1080px and 720px */
 
-
-
-/* 1080px and 720px */
 @media (min-width: 1080px) and (min-width: 720px) {
 .text-body-2-outter-con {
     padding-left: 70px;
@@ -1271,6 +1115,9 @@ a {
     max-width: 1430px;
 }
 }
+
+
+/* Screen sizes 1024px */
 
 @media (min-width: 1024px) {
 #Phase-4 {
@@ -1280,7 +1127,8 @@ a {
 }
 
 
-/* 1200px*/
+/* Screen size 1200px*/
+
 @media (min-width: 1200px) {
 .Intro-text {
     font-size: 52px;
@@ -1293,8 +1141,6 @@ a {
 .phase-1-header {
      font-size: 36px
 }
-
-
 
 .phase-1-body {
      font-size: 26px;
@@ -1321,12 +1167,11 @@ a {
     font-size: 14px;
 }
     
-
-    
 }
 }
 
 
+/* Sreen size 1430px */
 
 @media (min-width: 1430px){
 .Phase-1 {
