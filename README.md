@@ -1,8 +1,7 @@
 # Identity
-A Design case study on one of the produts I resently designed for front-end project where I showed my
+A Design case study on one of the produts I resently designed for where I showed my
 UX process, prototype design skills and motion abilities. 
 Made using HTML5 & CSS3.
-🙂
 
 - [Demo](https://lalaee.github.io/) - See live version of code here
 
