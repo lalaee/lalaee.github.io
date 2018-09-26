@@ -635,6 +635,7 @@ img {
 
 .underlined {
   flex: 1; 
+  color: #1EAEDB;
   text-decoration: none;
   background-image: linear-gradient(to right, #1EAEDB 0, #1EAEDB 100%);
   background-position: 0 1.2em;
@@ -642,18 +643,19 @@ img {
   background-repeat: no-repeat;
   transition: background .5s;
 
-  &:hover, {
+}
+
+.underlined:hover, {
     background-size: 100% 100%;
-  }
+}
 
   
-  &--offset {
+.underlined--offset {
     background-position: 0 0.2em;
     //didn't find another solution than mask the underline shape by a box shadow with the same color than the bg
     box-shadow: inset 0 -.5em 0 0 white;
-  }
-
 }
+
 
 
 
