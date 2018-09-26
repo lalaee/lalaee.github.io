@@ -631,14 +631,30 @@ img {
 
 }
 
-a {
-    background-color: transparent;
-}
 
-a {
-    color: #1EAEDB;
-}
 
+.underlined {
+  color: black;
+  flex: 1;
+  font-size: 2em;
+  line-height: 1.2;
+  text-decoration: none;
+  background-image: linear-gradient(to right, #1EAEDB 0, #1EAEDB 100%);
+  background-position: 0 1.2em;
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: background .5s;
+  
+  &:hover, {
+    background-size: 100% 100%;
+  }
+
+  &--reverse {
+    background-position: 100% -0.1em;
+    transition: background 1s; 
+    background-image: linear-gradient(to right, #1EAEDB 0, #1EAEDB 100%);
+  }
+}
 
 
 
