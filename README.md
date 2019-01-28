@@ -15,4 +15,4 @@ UX process, prototype design skills and motion abilities.
 - [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/es/docs/Web/CSS/CSS3)
 - [Github Pages](https://pages.github.com/)
-- [Github Pages](https://www.javascript.com/)
+- [JS](https://www.javascript.com/)
