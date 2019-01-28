@@ -1,0 +1,27 @@
+.container {  
+ list-style: none;
+  width: 100%;  
+  padding: 10px;  
+}  
+       
+.container ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+    
+}
+
+.container li {
+  display: inline-block;
+}
+
+#two, #three {
+  margin-left: 20px;
+}
+
+.container li a {
+    text-decoration: none;
+    font-family: SFUIDisplay-Thin;
+    font-weight: 500;
+
+}
