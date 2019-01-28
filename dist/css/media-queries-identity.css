@@ -510,6 +510,7 @@
 	.lights-toggle {
 		justify-content: space-between !important;
 		margin-top: 0px;
+		margin-right: 25px;
 	}
 
 	.hero-cta {
