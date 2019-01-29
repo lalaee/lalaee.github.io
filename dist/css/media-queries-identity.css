@@ -174,7 +174,7 @@
 
 	.footer-about-2 {
     float: left;
-    padding-left: 55px;
+    padding-left: 35px;
 	}
 
 	.footer-about {
@@ -714,6 +714,41 @@
 
 	.anima {
 		margin-left: 115px;
+	}
+}
+
+/* 1024 */
+@media (min-width: 1024px) {
+	.text-body-1-con {
+    		margin-left: 50px;
+	}
+	.lala {
+    	padding-left: 50px;
+	}
+
+	.tb1-left-text-box {
+    	width: 40%;
+    	margin-left: 25px;
+	}
+
+	.features::before {
+    		top: 390px;
+	}
+	
+	.process {
+    	padding-top: 0px;
+	}
+	
+	.vids {
+    		padding-bottom: 50px;
+	}
+	
+	.features::before {
+    		top: 490px;
+	}
+	
+	.cta::before {
+  	  top: 100px;
 	}
 }
 
