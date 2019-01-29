@@ -750,6 +750,15 @@
 	.cta::before {
   	  top: 100px;
 	}
+	
+	.ph2-header {
+    	margin-bottom: 0px;
+	}
+	
+	.userflow, .userflow2, .userflow3 {
+    	padding-top: 20px;
+    	margin-left: 25px;
+	}
 }
 
 
@@ -789,8 +798,21 @@
 	.anima {
 		margin-left: 90px;
 	}
+	
+	.lala {
+    	padding-left: 0px;
+	}
 
-
+	.ph2-header {
+    	margin-bottom: 4.5em;
+    	max-width: 26em;
+    	margin-bottom: 0px;
+	}
+	
+	.userflow, .userflow2, .userflow3 {
+    	padding-top: 20px;
+    	margin-left: 0px;
+	}
 
 }
 
