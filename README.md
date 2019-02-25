@@ -1,6 +1,5 @@
-# Identity
-A Design case study on one of the produts I resently designed for where I showed my
-UX process, prototype design skills and motion abilities.
+# My Personal Portfolio
+This is my portfolio page where I exhibited my past projects and showed my UX process, prototype design skills and motion abilities.
 
 - [Demo](https://lalaee.github.io/) - See live version of code here
 
