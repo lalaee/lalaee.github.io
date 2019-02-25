@@ -25,3 +25,11 @@
     font-weight: 500;
 
 }
+
+
+
+@media (min-width: 1024px) {
+  .main-nav {
+    padding-right: 50px !important;
+  }
+}
